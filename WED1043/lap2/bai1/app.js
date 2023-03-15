@@ -30,5 +30,4 @@ if (a==0){                              // nếu a = 0 Thì làm lệnh if ==> G
         console.log("x2 = ",(-b - Math.sqrt(delta))/(2*a))
     )
     
-} 
-
+}
